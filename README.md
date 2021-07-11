@@ -14,7 +14,7 @@ All parts are modular and interchangeable. I’ve attached my thesis report whic
 I don't have the machine on hand because I have built it for a company so I cannot make it fully working unfortunately as I don’t have the financial medium to build one myself (roughly 1000 Euros). Nevertheless, I wanted to make this open source as I have learned a lot through the open source movement about 3D printing and I wanted to give something back to the community. If you have any question please do not hesitate to send a DM on Discord: Pirre#4076
 
 ## Work in Progress
-Please notice that this reprository is an work in progress at this moment as it takes quite a bit time to setting up everything neatly. 
+Please notice that this reprository is work in progress at this moment as it takes quite a bit time setting up everything neatly. 
 
 
 
