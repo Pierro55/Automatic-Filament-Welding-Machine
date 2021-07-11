@@ -1,5 +1,8 @@
 # Automatic-Filament-Welding-Machine
 
+<img src="https://github.com/Pierro55/REuse-Automatic-Filament-Welding-Machine/blob/main/Machine%20overview.png" width=70% height=70%>
+
+
 ## What is this?
 This is an automatic filament welding machine. Its purpose is to weld left over filament and wind it on a spool afterwards. 
 
