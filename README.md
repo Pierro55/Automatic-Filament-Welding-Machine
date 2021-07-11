@@ -16,5 +16,5 @@ I don't have the machine on hand because I have built it for a company so I cann
 ## Work in Progress
 Please notice that this reprository is work in progress at this moment as it takes quite a bit time setting up everything neatly. 
 
-
+<img src="https://github.com/Pierro55/REuse-Automatic-Filament-Welding-Machine/blob/main/weld%20test.jpg" width=100% height=100%>
 
