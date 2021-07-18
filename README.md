@@ -6,7 +6,7 @@
 
 
 ## What is this?
-This is an automatic filament welding machine. Its purpose is to weld left over filament and wind it on a spool afterwards. 
+This is an automatic filament welding machine made for 3mm (or 2.85mm) filament. Its purpose is to weld left over filament and wind it on a spool afterwards. The system can be adapted for 1.75mm if needed. 
 
 ## General information
 I've designed and build this machine as part of my mechanical engineering bachelor thesis. Unfortunately, I didn't have enough time to program it and test it thoroughly but tested every single subsystem of the machine itself. The welding part itself works really well. 
