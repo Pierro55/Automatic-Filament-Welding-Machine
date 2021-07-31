@@ -16,3 +16,8 @@ I don't have the machine on hand because I have built it for a company so I cann
 ## Work in Progress
 Please notice that this reprository is work in progress at this moment as it takes quite a bit time setting up everything neatly. 
 
+
+
+## Disclaimer
+If you try to replicate this machine with the provided data, make sure you work safe. This information is provided for free under the terms of the GPL-2.0 License. Everything is provided without any warranty of any kind. Use the provided technical information at your own risk, any damage to a machine, device, yourself or similar is solely your own responsibility.
+ 
