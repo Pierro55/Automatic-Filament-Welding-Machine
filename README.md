@@ -18,5 +18,5 @@ If you have any question please do not hesitate to send me a DM on Discord: Pier
 
 
 ## Disclaimer
-If you try to replicate this machine with the provided data, make sure you work safe. This information is provided for free under the terms of the GPL-2.0 License. Everything is provided without any warranty of any kind. Use the provided technical information at your own risk, any damage to a machine, device, yourself or similar is solely your own responsibility.
+If you try to replicate this machine with the provided data, make sure you work safe. This information is provided for free under the terms of the GPL-2.0 License. Everything is provided without any warranty of any kind. Use the provided information at your own risk, any damage to a machine, device, yourself or similar is solely your own responsibility.
  
