@@ -12,3 +12,9 @@ The purple gear is connected to the motor. This gear moves the left brown arm th
 The automatic ejection happens on the outside of the cutting system. As the motor moves the mechanism, a second mechanism, which is directly coupled with the motor shaft, moves two outputs. One is for the cutoff and the second one is for the to be welded filament. 
 
 <img src="https://github.com/Pierro55/REuse-Automatic-Filament-Welding-Machine/blob/main/Cutting%20Sytsem/Images/Cutting%20automation%20principle.png" width=70% height=70%>
+
+
+Some rl photos
+
+<img src="https://github.com/Pierro55/REuse-Automatic-Filament-Welding-Machine/blob/main/Cutting%20Sytsem/Images/IMG_20200524_174547.jpg" width=40% height=40%>
+<img src="https://github.com/Pierro55/REuse-Automatic-Filament-Welding-Machine/blob/main/Cutting%20Sytsem/Images/IMG_20200526_140141.jpg" width=40% height=40%>
