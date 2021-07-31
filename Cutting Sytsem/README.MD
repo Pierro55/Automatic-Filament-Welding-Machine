@@ -1,4 +1,4 @@
-## Cutting system
+# Cutting system
 
 
 The cutting system is designed to cut off the filament ends before welding them together and automatically eject the cutoff. The idea behind this system is to make the machine more reliable by controlling the shape of the filament ends. In my experiments I used a geared DC motor for this, which turned out to be too weak. I therefore had to ditch it for the final machine as there wasn’t enough time left. It can still be added to the machine because of its modularity.
