@@ -1,7 +1,7 @@
 # REuse: Automatic Filament Welding Machine
 
 <img src="https://github.com/Pierro55/REuse-Automatic-Filament-Welding-Machine/blob/main/Machine%20overview.png" width=100% height=100%>
-
+<img src="https://github.com/Pierro55/REuse-Automatic-Filament-Welding-Machine/blob/main/Result%20test%201%2C75.JPG" width=70% height=70%>
 
 
 
