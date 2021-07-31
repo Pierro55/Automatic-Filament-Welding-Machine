@@ -1,7 +1,10 @@
 ## Cutting system
-<img src="https://github.com/Pierro55/REuse-Automatic-Filament-Welding-Machine/blob/main/Cutting%20Sytsem/Images/Bill%20of%20materials.PNG" width=70% height=70%>
+
 
 The cutting system is designed to cut off the filament ends before welding them together and automatically eject the cutoff. The idea behind this system is to make the machine more reliable by controlling the shape of the filament ends. In my experiments I used a geared DC motor for this, which turned out to be too weak. I therefore had to ditch it for the final machine as there wasn’t enough time left. It can still be added to the machine because of its modularity.
+
+<img src="https://github.com/Pierro55/REuse-Automatic-Filament-Welding-Machine/blob/main/Cutting%20Sytsem/Images/Bill%20of%20materials.PNG" width=70% height=70%>
+
 
 ### Basic Principle
 The basic principle works as follows:
